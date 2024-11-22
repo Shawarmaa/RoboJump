@@ -23,7 +23,7 @@ A delightful platform jumping game built with Python and Tkinter, inspired by th
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/robojump.git
+git clone https://github.com/Shawarmaa/RoboJump.git
 cd robojump
 ```
 
