@@ -80,22 +80,7 @@ The game automatically saves your high scores to `scores.txt`. You can also manu
 
 You can customize various game settings through the options menu:
 - Control bindings
-- Difficulty settings
 - Player name
-
-## 🐛 Known Issues
-
-- None currently reported. If you find any, please create an issue!
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -104,10 +89,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - Inspired by the classic DoodleJump game
-- Thanks to all contributors who helped make this game better!
-
-## 📫 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/robojump](https://github.com/yourusername/robojump)
